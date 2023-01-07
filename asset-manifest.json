@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.c22f1353.css",
+    "main.js": "/home/static/js/main.e9c9e77b.js",
+    "static/media/hero.jpg": "/home/static/media/hero.14c1df198de3c6d5fa2f.jpg",
+    "static/media/testi-banner.jpg": "/home/static/media/testi-banner.40def54b8d732768a452.jpg",
+    "static/media/donate-1.jpg": "/home/static/media/donate-1.261b76bd4ee486ed6853.jpg",
+    "static/media/donate-4.jpg": "/home/static/media/donate-4.42cf85745ea4647e2101.jpg",
+    "static/media/donate-3.jpg": "/home/static/media/donate-3.ddbfba1b640f06ff55e1.jpg",
+    "static/media/donate-2.jpg": "/home/static/media/donate-2.72f580ba4a2bd6277376.jpg",
+    "static/media/insta-3.jpg": "/home/static/media/insta-3.6c45cd81fc0c9752f69e.jpg",
+    "static/media/about-banner-1.jpg": "/home/static/media/about-banner-1.1ea2d506b52bb995abcc.jpg",
+    "static/media/insta-5.jpg": "/home/static/media/insta-5.17efcc1032b09dd078c1.jpg",
+    "static/media/about-banner-2.jpg": "/home/static/media/about-banner-2.2299fcd6cc36efbad0be.jpg",
+    "static/media/about-banner-4.jpg": "/home/static/media/about-banner-4.39c2c403cf5a2fe6fe1e.jpg",
+    "static/media/cta-banner.jpg": "/home/static/media/cta-banner.5c0ba7d370027ed6c6fb.jpg",
+    "static/media/about-banner-3.jpg": "/home/static/media/about-banner-3.54f6d9e9959a4111316e.jpg",
+    "static/media/insta-2.jpg": "/home/static/media/insta-2.1e36731fe3e34fb52fd1.jpg",
+    "static/media/insta-1.jpg": "/home/static/media/insta-1.8f390fba86f648eeaaeb.jpg",
+    "static/media/insta-4.jpg": "/home/static/media/insta-4.be36e85aad37e39cd47c.jpg",
+    "index.html": "/home/index.html",
+    "main.c22f1353.css.map": "/home/static/css/main.c22f1353.css.map",
+    "main.e9c9e77b.js.map": "/home/static/js/main.e9c9e77b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c22f1353.css",
+    "static/js/main.e9c9e77b.js"
+  ]
+}
