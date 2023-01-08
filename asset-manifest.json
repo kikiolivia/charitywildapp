@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/charitywildapp/static/css/main.ddc1a6d5.css",
-    "main.js": "/charitywildapp/static/js/main.e8a2843f.js",
+    "main.js": "/charitywildapp/static/js/main.99f668c7.js",
     "static/media/hero.jpg": "/charitywildapp/static/media/hero.14c1df198de3c6d5fa2f.jpg",
     "static/media/testi-banner.jpg": "/charitywildapp/static/media/testi-banner.40def54b8d732768a452.jpg",
     "static/media/donate-1.jpg": "/charitywildapp/static/media/donate-1.261b76bd4ee486ed6853.jpg",
@@ -20,10 +20,10 @@
     "static/media/insta-4.jpg": "/charitywildapp/static/media/insta-4.be36e85aad37e39cd47c.jpg",
     "index.html": "/charitywildapp/index.html",
     "main.ddc1a6d5.css.map": "/charitywildapp/static/css/main.ddc1a6d5.css.map",
-    "main.e8a2843f.js.map": "/charitywildapp/static/js/main.e8a2843f.js.map"
+    "main.99f668c7.js.map": "/charitywildapp/static/js/main.99f668c7.js.map"
   },
   "entrypoints": [
     "static/css/main.ddc1a6d5.css",
-    "static/js/main.e8a2843f.js"
+    "static/js/main.99f668c7.js"
   ]
 }
